@@ -1,0 +1,134 @@
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+.menu {
+    background-color: rgb(160, 28, 28);
+  }
+  
+  .menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .menu li {
+    float: left;
+  }
+  
+  .menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .menu li a:hover {
+    background-color: #111;
+  }
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .container h1 {
+    font-size: 24px;
+  }
+  
+  #search-input {
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  #baju-list {
+    list-style-type: none;
+    margin: 20px auto;
+    padding: 0;
+    width: 400px;
+  }
+  
+  #baju-list li {
+    margin-bottom: 10px;
+  }
+  .container {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .photo-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .photo-gallery img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 10px;
+  }
+  .container {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  #search-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #search-button {
+    padding: 10px 20px;
+  }
+  
+  #search-results {
+    margin-top: 20px;
+  }
+  .container {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  #search-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #search-button {
+    padding: 10px 20px;
+  }
+  
+  #search-results {
+    margin-top: 20px;
+  }
+  
+  #gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .gallery-item {
+    width: 200px;
+    margin: 10px;
+  }
+    
